@@ -35,8 +35,8 @@ I will build more projects and challenges in frontend mentor.
 
 ## Author
 
-- Frontend Mentor - [@jongvelasquez](https://www.frontendmentor.io/profile/jongvelasquez)
-- Twitter - [@codingfreqs](https://twitter.com/jaimewebuxui)
+-  My Website - [jaimevelasquezjr.com](https://jaimevelasquezjr.com/)
+-  Twitter - [@jaimewebuxui](https://twitter.com/jaimewebuxui)
 
 ## Acknowledgments
 
