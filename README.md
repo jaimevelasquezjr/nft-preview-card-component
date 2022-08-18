@@ -40,4 +40,4 @@ I will build more projects and challenges in frontend mentor.
 
 ## Acknowledgments
 
-Thank for frontend mentor team who build lot of challenges. I
+Thank for frontend mentor team who build lot of challenges.
